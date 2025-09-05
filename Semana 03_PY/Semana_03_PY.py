@@ -6,3 +6,6 @@ def ejer1():
 
 ejer1()
 
+def ejer2():
+    print ("\"Victor\"")
+ejer2()
